@@ -134,17 +134,22 @@ Smart-Campus-Problem-Reporting-System/
 
 This project is currently under development as part of the FY MCA Capstone Team Project.
 
-## 👨‍💻 Team Tech Titans
+---
 
-| Name | Role |
-|---|---|
-| **Nikhil Khude** | Team Leader |
-| **Pratik Maske** | Core Team Member |
+<p align="center">
+  <img src="https://img.shields.io/badge/TEAM-TECH%20TITANS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-**Group:** 61  
-**Course:** FY MCA  
-**Institution:** MES IMCC, Pune  
-**Academic Year:** 2026–2028
+<p align="center">
+  <b>🚀 TECH TITANS</b>
+  <br/><br/>
+  <a href="https://github.com/Nikhil-Khude">
+    <img src="https://img.shields.io/badge/Nikhil%20Khude-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Pratik%20Maske-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
